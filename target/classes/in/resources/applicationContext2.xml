@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+        
+        <bean class="in.beans.FirstSpringProgram.Student2" id="stdId3">
+        <property name="name" value="Ubbu the rider"/>
+        <property name="div" value="A"/>
+        <property name="clg" value="Sabo Siddiquie Clg"/>
+        </bean> 
+        
+         <bean class="in.beans.FirstSpringProgram.Student2" id="stdId4">
+        <property name="name" value="Chiller"/>
+        <property name="div" value="B"/>
+        <property name="clg" value="S.m Shetty Clg"/>
+        </bean>   
+        
+        
+        
+           
+        
+        
+        
+        
+            
+</beans>
